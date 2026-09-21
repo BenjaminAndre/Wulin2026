@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "slots": [
+    {
+      "slot": 1,
+      "path": "Ressources\/Su Aqiao.png"
+    },
+    {
+      "slot": 2,
+      "path": "Ressources\/Capitaine Gao.png"
+    },
+    {
+      "slot": 3,
+      "path": "Ressources\/Chen -Le Mur-.png"
+    },
+    {
+      "slot": 4,
+      "path": "Ressources\/Emperor Song Gaozong.png"
+    },
+    {
+      "slot": 5,
+      "path": "Ressources\/Feng Bao.png"
+    },
+    {
+      "slot": 6,
+      "path": "Ressources\/Gu Linyan.png"
+    }
+  ]
+}
