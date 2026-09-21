@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "1cc828aa434fb309",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dd95290f8628832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74c4fdafbccff49c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Ressources/Corneille.png"
+              },
+              "icon": "lucide-image",
+              "title": "Corneille"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa0f064d94c54a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "97cf1e676cbe90a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a2271d5c9e755af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1112898dfa6b4406",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "04659f9ca9ccaaa1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "994c6c4dc144f523",
+    "type": "split",
+    "children": [
+      {
+        "id": "6330087492f6ab89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f203325d37e34341",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campagne.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1239851f7c829f2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PNJs/Yue Fei.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8ae6f8a89eb23f50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f862dfb86165311b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d9e0712d50468f74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PNJs/Yue Fei.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "74c4fdafbccff49c",
+  "lastOpenFiles": [
+    "Ressources/Crimson Fox.png",
+    "Ressources/Corneille.png",
+    "Ressources/Zhao -le fil-.png",
+    "Campagne.md",
+    "PNJs/Gao Shou'an.md",
+    "Ressources/_unnamed2.png",
+    "Ressources/_unnamed1.png",
+    "Ressources/Ling Hui.png",
+    "Ressources/Gao Shou'an.png",
+    "PNJs/Yanshi Pai.md",
+    "PNJs/Renard Pourpre.md",
+    "PNJs/Ling Hui.md",
+    "PJs/Yanshi Gunshi.md",
+    "PJs/Ling Fei.md",
+    "PJs/Lin Chu.md",
+    "PJs/Huo.md",
+    "conflict-files-obsidian-git.md",
+    "PNJs/Gu Linyan.md",
+    "PNJs/Pei Henian.md",
+    "Ressources/Master Lu.png",
+    "Calendrier.md",
+    "PJs/PJs.md",
+    "PNJs/Su Aqiao.md",
+    "PNJs/Yue Fei.md",
+    "PNJs/Lin Chuyou.md",
+    "Ressources/Gu Linyan.png",
+    "Ressources/Han Shizhong.png",
+    "Ressources/Feng Bao.png",
+    "PNJs/Tante Mei.md",
+    "PNJs/Qin Hui.md",
+    "PNJs/Pu Moli.md",
+    "PNJs/Liang Hongyu.md",
+    "PNJs/Han Shizhong.md",
+    "PNJs/Feng Bao.md",
+    "PNJs/Empereur Song Gaozong.md",
+    "PNJs/Canneton.md",
+    "Templates",
+    "New Text Document.txt",
+    "Lieux/Linan.base",
+    "Ressources",
+    "Notes",
+    "Factions",
+    "Lieux",
+    "PNJs",
+    "PJs"
+  ]
+}
