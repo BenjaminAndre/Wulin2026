@@ -11,12 +11,14 @@
             "id": "74c4fdafbccff49c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Ressources/Corneille.png"
+                "file": "PNJs/Gao Shou'an.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Corneille"
+              "icon": "lucide-file",
+              "title": "Gao Shou'an"
             }
           }
         ]
@@ -189,16 +191,20 @@
   },
   "active": "74c4fdafbccff49c",
   "lastOpenFiles": [
-    "Ressources/Crimson Fox.png",
+    "PNJs/Yanshi Pai.md",
+    "PNJs/Yue Fei.md",
     "Ressources/Corneille.png",
+    "Ressources/Lin Chuyou.png",
+    "Ressources/Liang Hongyu.png",
+    "Ressources/Lady Wang.png",
+    "Ressources/Han Shizhong.png",
+    "Ressources/Gu Linyan.png",
+    "Ressources/Gao Shou'an.png",
+    "Ressources/Feng Bao.png",
     "Ressources/Zhao -le fil-.png",
+    "Ressources/Emperor Song Gaozong.png",
     "Campagne.md",
     "PNJs/Gao Shou'an.md",
-    "Ressources/_unnamed2.png",
-    "Ressources/_unnamed1.png",
-    "Ressources/Ling Hui.png",
-    "Ressources/Gao Shou'an.png",
-    "PNJs/Yanshi Pai.md",
     "PNJs/Renard Pourpre.md",
     "PNJs/Ling Hui.md",
     "PJs/Yanshi Gunshi.md",
@@ -208,15 +214,10 @@
     "conflict-files-obsidian-git.md",
     "PNJs/Gu Linyan.md",
     "PNJs/Pei Henian.md",
-    "Ressources/Master Lu.png",
     "Calendrier.md",
     "PJs/PJs.md",
     "PNJs/Su Aqiao.md",
-    "PNJs/Yue Fei.md",
     "PNJs/Lin Chuyou.md",
-    "Ressources/Gu Linyan.png",
-    "Ressources/Han Shizhong.png",
-    "Ressources/Feng Bao.png",
     "PNJs/Tante Mei.md",
     "PNJs/Qin Hui.md",
     "PNJs/Pu Moli.md",
