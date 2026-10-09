@@ -22,4 +22,4 @@ element: Terre
 * 
 
 ### 💡 Interactions avec les PJs
-* 
+* Cherche à taxer énormément l'empire risicole de [[Shi Gun]].

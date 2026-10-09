@@ -7,7 +7,7 @@ element: Terre
 
 > "On a tous nos screts."
 ### 🗺 Origine
-* Double identité secrète de [[Yanshi Gunshi]].
+* Double identité secrète de [[Shi Gun]].
 
 ### 🎭 Personnalité
 * **Masque :** .

@@ -22,6 +22,7 @@ element: Terre
 ### 🔗 Relations
 * **[[Pu Moli]] :** Confiance commerciale totale, transactions récurrentes.
 * **[[Factions/Qin Hui|Qin Hui]] :** Inquiétude grandissante
+* **[[Lin Chu]] :** Méfiance par rapport à ses fournitures en viande.
 
 ### 💡 Interactions avec les PJs
-* Voir backlinks
+* A cuisiné la viande "louche" de Lin Chu.

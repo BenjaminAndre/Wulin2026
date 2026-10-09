@@ -26,4 +26,4 @@ element: Métal
 * **[[Wulin]] :** Conscient de sa puissance, Pei Henian prend soin de toujours avoir un clan dans ses alliés.
 
 ### 💡 Interactions avec les PJs
-* 
+* Père de [[Song Shuhua]]

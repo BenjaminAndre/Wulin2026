@@ -19,6 +19,7 @@ element: Métal
 
 ### 🔗 Relations
 * **[[Ling Fei]] :** Amitié
+* **[[Hu Bao]] :** Vieille amitié, dette vitale
 
 ### 💡 Interactions avec les PJs
-* 
+* [[Lin Chu]] sait qu'il a été sauvé par Hu Bao.

@@ -25,4 +25,4 @@ element: Feu
 * **[[Dynastie Song]] :** Haîne vicérale
 
 ### 💡 Interactions avec les PJs
-* 
+* A volé le cuivre de [[Shi Pai]], qui a accepté de la laisser partir avec.
