@@ -7,7 +7,7 @@ element: Terre
 ---
 ![[Gao Shou'an.png|center|300]]
 
-> "Je fais ce qu'on me dit de faire. Pas plus, pas moin."
+> "Je fais ce qu'on me dit de faire. Pas plus, pas moins."
 
 ### 🗺 Origine
 * Eunuque nommé au poste de gouverneur par l'Empereur lui-même.

@@ -5,8 +5,7 @@ faction: PJ
 element: Terre
 joueur: Pierre
 ---
-
-![[NOM.png|center|300]]
+![[Shi Gun.jpg|center|300]]![[Shi Pai.png|center|300]]
 
 Possède un chaîne de production de riz, de terres à boutiques.
 

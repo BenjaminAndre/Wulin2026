@@ -6,7 +6,7 @@ element: Bois
 joueur: Jérémy
 ---
 
-![[NOM.png|center|300]]
+![[Lin Chu.webp|center|300]]
 
 >"Ce qu'il ignore ne peut pas le blesser."
 
