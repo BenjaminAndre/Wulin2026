@@ -11,7 +11,7 @@ marker:
     icon: lucide-amphora
     mapName: Lin'an
 ---
-![[Pu Moli.png|center|300]]
+![[Pu Moli.jpg|center|300]]
 
 > "Le vent tourne, et les allégeances avec."
 ### 🗺 Origine

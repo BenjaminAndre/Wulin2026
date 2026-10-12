@@ -4,7 +4,7 @@ tags:
 faction: Indépendante
 element: Métal
 ---
-![[_unnamed1.png|center|300]]µ
+![[_unnamed1.jpg|center|300]]µ
 
 > "Une lame aiguisée ne craint pas de trancher."
 

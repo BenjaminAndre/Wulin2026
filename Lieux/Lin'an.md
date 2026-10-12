@@ -4,7 +4,7 @@ views:
   - type: leaflet-map
     name: Map
     mapName: Lin'an
-    image: Ressources/Lin'an.png
+    image: Ressources/Lin'an.jpg
     height: 300
     minZoom: -1.5
     maxZoom: 2

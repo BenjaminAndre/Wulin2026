@@ -5,7 +5,7 @@ tags:
 faction: Neutre
 element: Terre
 ---
-![[Feng Bao.png|center|300]]
+![[Feng Bao.jpg|center|300]]
 
 > "Un bol, c'est de la terre, de l'eau, du bois et du feu, et finalement... Ton métal."
 

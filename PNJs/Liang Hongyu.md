@@ -5,7 +5,7 @@ tags:
 faction: Armée
 element: Feu
 ---
-![[Liang Hongyu.png|center|300]]
+![[Liang Hongyu.jpg|center|300]]
 
 > "Je vous mènerai en enfer si on peut y tuer des Jin."
 

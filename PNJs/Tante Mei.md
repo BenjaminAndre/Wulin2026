@@ -6,7 +6,7 @@ tags:
 faction: Neutre
 element: Terre
 ---
-![[Auntie Mei.png|center|300]]
+![[Auntie Mei.jpg|center|300]]
 
 > "Le travail lui-même est une arme."
 

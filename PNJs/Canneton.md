@@ -7,7 +7,7 @@ tags:
 faction: Indépendante
 element: Feu
 ---
-![[Canneton.png|center|300]]
+![[Canneton.jpg|center|300]]
 
 > "Je l'ai vu partir par là !"
 

@@ -5,7 +5,7 @@ tags:
 faction: Révolutionnaire
 element: Métal
 ---
-![[Crimson Fox.png|center|300]]
+![[Crimson Fox.jpg|center|300]]
 
 > "Les riches ne se rendent pas compte."
 ### 🗺 Origine

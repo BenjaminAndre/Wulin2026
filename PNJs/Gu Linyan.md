@@ -5,7 +5,7 @@ tags:
 faction: Indépendante
 element: Métal
 ---
-![[Gu Linyan.png|center|300]]
+![[Gu Linyan.jpg|center|300]]
 
 > "Une lame aiguisée ne craint pas de trancher."
 

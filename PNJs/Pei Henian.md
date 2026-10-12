@@ -6,7 +6,7 @@ tags:
 faction: Qin Hui
 element: Métal
 ---
-![[Pei Henian.png|center|300]]
+![[Pei Henian.jpg|center|300]]
 
 > "Qu'importe qui s'assied sur le trône, tant qu'il respecte mon domaine."
 

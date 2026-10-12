@@ -6,7 +6,7 @@ tags:
 faction: Neutre
 element: Feu
 ---
-![[Ling Hui.png|center|300]]
+![[Ling Hui.jpg|center|300]]
 
 > "Les pauvres ne se rendent pas compte."
 ### 🗺 Origine

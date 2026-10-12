@@ -12,7 +12,7 @@ marker:
     icon: lucide-crown
     mapName: Lin'an
 ---
-![[Emperor Song Gaozong.png|center|300]]
+![[Emperor Song Gaozong.jpg|center|300]]
 
 > "Le trône exige de la stabilité, pas de l'héroïsme. Mieux vaut régner sur un demi-empire en paix que sur un pays entier de cendres."
 

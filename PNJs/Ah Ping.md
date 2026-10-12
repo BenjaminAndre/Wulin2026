@@ -6,7 +6,7 @@ tags:
 faction: Qin Hui
 element: Bois
 ---
-![[Ah Ping.png|center|300]]
+![[Ah Ping.jpg|center|300]]
 
 > "Vos crimes vous suivront jusqu'à la nuit des temps."
 

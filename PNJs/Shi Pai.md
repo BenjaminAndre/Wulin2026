@@ -3,7 +3,7 @@ tags:
 faction:
 element: Terre
 ---
-![[Shi Pai.png|center|300]]
+![[Shi Pai.jpg|center|300]]
 
 > "On a tous nos screts."
 ### 🗺 Origine

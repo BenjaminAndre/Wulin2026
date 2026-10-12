@@ -6,7 +6,7 @@ tags:
 faction: Armée
 element: Bois
 ---
-![[Lin Chuyou.png|center|300]]
+![[Lin Chuyou.jpg|center|300]]
 
 > "Mon coeur et ma musique se perdent dans le vent, volant vers le Nord."
 ### 🗺 Origine

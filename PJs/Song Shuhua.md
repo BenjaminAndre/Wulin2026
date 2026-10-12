@@ -10,7 +10,7 @@ joueur: Luna
 
 
 ### 🔗 Relations
-* [[Emperor Song Gaozong.png]] promise à.
+* [[Emperor Song Gaozong.jpg]] promise à.
 * [[Pei Henian]] son père.
 * À une soeur Yanfei
 * À un frère Baixu

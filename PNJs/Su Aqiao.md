@@ -6,7 +6,7 @@ tags:
 faction: Neutre
 element: Terre
 ---
-![[Su Aqiao.png|center|300]]
+![[Su Aqiao.jpg|center|300]]
 
 > "Le fil de soie le plus fin peut étrangler un empire si les petites gens tirent tous en même temps."
 

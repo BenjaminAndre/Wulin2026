@@ -5,7 +5,7 @@ tags:
 faction: Dynastie Song
 element: Métal
 ---
-![[Yue Fei.png|center|300]]
+![[Yue Fei.jpg|center|300]]
 
 > "Servir le pays avec une loyauté pure." *-Tatoué dans son dos*
 

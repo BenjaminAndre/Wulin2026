@@ -6,7 +6,7 @@ tags:
 faction: Qin Hui
 element: Eau
 ---
-![[Qin Hui.png|center|300]]
+![[Qin Hui.jpg|center|300]]
 
 > "Retarder l'apparition de la Paix, c'est dépêcher sa propre disparition."
 

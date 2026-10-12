@@ -15,7 +15,7 @@ Antoine ([[Ling Fei]]) asbent. Hugo absent (Huo).
 	* Donne une fiole souffrée (qui donne une turbo chiasse)
 *   1137-03-12
 * [[Song Shuhua]] retrouve [[Shi Pai]] la nuit après sa réunion.
-* [[Chen -Le Mur-.png]] est un garde qui répond aux question sur le riz. Poivrot, annonce Shi Pai à Gao.
+* [[Chen -Le Mur-.jpg]] est un garde qui répond aux question sur le riz. Poivrot, annonce Shi Pai à Gao.
 * [[Song Shuhua]] perd un porte bonheur en ville. Un cadeau de sa soeur jumelle, qui vient de l'ami d'enfance ([[Shi Pai]])
 * [[Shi Pai]] le retrouve par terre. Elle est complètement bouleversée et repense à Yanfei.
 * [[Ah Ping]] a beaucoup de libido. [[Lin Mei]] et [[Lin Chu]] viennent le divertir. Elle gagne une faveur pour lui lire de la poésie en privé à son bureau.

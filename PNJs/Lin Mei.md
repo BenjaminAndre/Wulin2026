@@ -6,7 +6,7 @@ tags:
 faction: Armée
 element: Bois
 ---
-![[Lin Mei.png|center|300]]
+![[Lin Mei.jpg|center|300]]
 
 > "Todo."
 ### 🗺 Origine

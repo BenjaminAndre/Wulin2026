@@ -5,7 +5,7 @@ tags:
 faction: Dynastie Song
 element: Terre
 ---
-![[Gao Shou'an.png|center|300]]
+![[Gao Shou'an.jpg|center|300]]
 
 > "Je fais ce qu'on me dit de faire. Pas plus, pas moins."
 

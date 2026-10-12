@@ -5,7 +5,7 @@ tags:
 faction: Armée
 element: Bois
 ---
-![[Han Shizhong.png|center|300]]
+![[Han Shizhong.jpg|center|300]]
 
 > "Jouer le second rôle, c'est lier son destin à un seul Homme."
 

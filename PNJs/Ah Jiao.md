@@ -6,7 +6,7 @@ tags:
 faction: Qin Hui
 element: Bois
 ---
-![[Ah Jiao.png|center|300]]
+![[Ah Jiao.jpg|center|300]]
 
 > "Je ne veux même pas devenir fonctionnaire."
 
