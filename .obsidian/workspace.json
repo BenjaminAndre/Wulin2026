@@ -31,14 +31,12 @@
             "id": "d277d21d81e212d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/Session du 23 septembre 2026 + 08 octobre 2026.md",
-                "mode": "source",
-                "source": false
+                "file": "PNJs/Ressources/_unnamed1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Session du 23 septembre 2026 + 08 octobre 2026"
+              "icon": "lucide-image",
+              "title": "_unnamed1"
             }
           }
         ]
@@ -209,23 +207,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a2271d5c9e755af",
+  "active": "d277d21d81e212d1",
   "lastOpenFiles": [
+    "PNJs/Ressources/_unnamed9.jpg",
+    "PNJs/Ressources/_unnamed2.jpg",
+    "PNJs/Ressources/_unnamed3.jpg",
+    "PNJs/Ressources/_unnamed4.jpg",
+    "PNJs/Ressources/_unnamed5.jpg",
+    "PNJs/Ressources/_unnamed6.jpg",
+    "PNJs/Ressources/_unnamed7.jpg",
+    "PNJs/Ressources/_unnamed8.jpg",
+    "PNJs/Ressources/_unnamed1.jpg",
+    "PNJs/Hu Bao.md",
+    "PNJs/Ressources/Hu Bao.jpg",
+    "Notes/Session du 23 septembre 2026 + 08 octobre 2026.md",
     "Ressources/background.png",
     "Ressources/background.pong",
-    "PNJs/Ressources/_unnamed5.jpg",
-    "PNJs/Ressources/_unnamed4.jpg",
-    "PNJs/Ressources/_unnamed3.jpg",
-    "PNJs/Ressources/_unnamed2.jpg",
-    "PNJs/Ressources/_unnamed1.jpg",
-    "PNJs/Ressources/Zhao -le fil-.jpg",
-    "PNJs/Ressources/Yue Fei.jpg",
-    "PNJs/Ressources/Su Aqiao.jpg",
-    "PNJs/Ressources/Qin Hui.jpg",
-    "PNJs/Ressources/Pu Moli.jpg",
     "PNJs/Lin Mei.md",
     "PNJs/Ah Ping.md",
-    "Notes/Session du 23 septembre 2026 + 08 octobre 2026.md",
     "PNJs/Lin Chuyou.md",
     "PNJs/Yue Fei.md",
     "PNJs/Tante Mei.md",
@@ -237,7 +236,6 @@
     "PNJs/Pei Henian.md",
     "PNJs/Ling Hui.md",
     "PNJs/Liang Hongyu.md",
-    "PNJs/Hu Bao.md",
     "PNJs/Han Shizhong.md",
     "PNJs/Gu Linyan.md",
     "PNJs/Gao Shou'an.md",
