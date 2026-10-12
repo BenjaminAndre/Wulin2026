@@ -211,6 +211,7 @@
   },
   "active": "9a2271d5c9e755af",
   "lastOpenFiles": [
+    "Ressources/background.png",
     "Ressources/background.pong",
     "PNJs/Ressources/_unnamed5.jpg",
     "PNJs/Ressources/_unnamed4.jpg",
@@ -255,7 +256,6 @@
     "Templates",
     "Lieux/Linan.base",
     "Ressources",
-    "Notes",
-    "Factions"
+    "Notes"
   ]
 }
