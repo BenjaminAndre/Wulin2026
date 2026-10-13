@@ -1,0 +1,54 @@
+# Métiers
+
+*Ce qu'un PNJ fait de ses journées, dans le Lin'an des Song et sur les routes du Sud.*
+
+- Tenancier de maison de thé au bord du lac de l'Ouest
+- Commis du grenier impérial
+- Batelier du Grand Canal
+- Passeur du fleuve Qiantang
+- Guetteur du mascaret du Qiantang
+- Conteur des quartiers de plaisir
+- Marionnettiste d'ombres
+- Acrobate des quartiers de plaisir
+- Chanteuse-courtisane d'une maison de musique
+- Joueur professionnel de cuju, le ballon au pied
+- Marchand de sel, et peut-être contrebandier
+- Marchand de soie de Suzhou
+- Négociant en thé du Fujian
+- Courtier, qui prend sa part sur chaque marché
+- Changeur de monnaie
+- Prêteur sur gages
+- Scribe public, qui écrit les lettres des illettrés
+- Commis du yamen
+- Huissier du tribunal
+- Geôlier
+- Bourreau
+- Percepteur des taxes
+- Commis du Bureau du commerce maritime
+- Candidat aux examens impériaux, recalé deux fois
+- Maître d'école de village
+- Imprimeur de livres sur planches gravées
+- Papetier
+- Potier de céladon de Longquan
+- Teinturier
+- Fabricant de lanternes
+- Vendeur de gâteaux de riz
+- Cuisinier de restaurant renommé
+- Veilleur de nuit, qui frappe les heures
+- Porteur de palanquin
+- Médecin ambulant
+- Apothicaire
+- Géomancien
+- Devin des rues
+- Moine du temple Lingyin
+- Maître taoïste
+- Nonne bouddhiste
+- Entrepreneur de pompes funèbres
+- Soldat de l'armée de Yue Fei, en permission
+- Garde impérial
+- Eunuque du palais
+- Censeur, ou son secrétaire
+- Maître d'armes qui enseigne sur la place du marché
+- Mendiant, membre de la secte des Mendiants
+- Pêcheur du lac
+- Espion jürchen, sous une autre identité

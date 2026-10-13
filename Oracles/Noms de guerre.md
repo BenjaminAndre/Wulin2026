@@ -1,0 +1,44 @@
+# Noms de guerre
+
+*Les surnoms du jianghu, à la manière d'Au bord de l'eau : on les gagne, on les subit, rarement on les choisit.*
+
+- Le Tigre aux Sourcils Blancs
+- L'Hirondelle sur l'Eau
+- Éventail de Fer
+- Le Moine Ivre
+- La Grue Solitaire
+- Le Dragon Caché du Lac
+- Sabre de la Neige Rouge
+- Le Fantôme des Toits
+- Dame Aiguille
+- Le Serpent de Jade
+- Paume de Cinabre
+- Le Saule Pleureur
+- L'Ombre Sans Pas
+- Bâton qui Fend les Vagues
+- Le Lettré au Pinceau d'Acier
+- La Pivoine Empoisonnée
+- Le Mendiant aux Neuf Doigts
+- Le Vieux de la Tortue
+- Flèche du Nord
+- L'Ermite de la Source Froide
+- Le Bœuf de Fer
+- La Lame qui Rit
+- Le Juge des Rivières
+- Le Corbeau du Soir
+- Quatre Bras
+- Le Renard Blanc du Mont Tianmu
+- La Lanterne Rouge
+- Trois Coupes
+- Pas de Brume
+- Le Scorpion des Marais
+- Œil de Faucon
+- Le Muet au Large Sabre
+- L'Abbesse au Chapelet de Fer
+- Le Duc du Marché Noir
+- Mille Mains
+- Le Vent d'Automne
+- La Prune d'Hiver
+- Cloche d'Or
+- Le Tonnerre Tranquille
+- Le Batelier Sans Visage

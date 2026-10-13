@@ -1,0 +1,98 @@
+# Noms de famille
+
+*Tirés du Bǎijiā Xìng, les « Cent noms de famille », compilé au début des Song : l'ordre suit le texte, qui commence par Zhao, le clan impérial. Les noms composés, à la fin, sonnent ancien, noble ou jianghu.*
+
+- Zhao 趙 — le clan impérial ; le porter attire les regards
+- Qian 錢
+- Sun 孫
+- Li 李
+- Zhou 周
+- Wu 吳
+- Zheng 鄭
+- Wang 王
+- Feng 馮
+- Chen 陳
+- Chu 褚
+- Wei 衛
+- Jiang 蔣
+- Shen 沈
+- Han 韓 — comme le général Han Shizhong
+- Yang 楊 — une lignée de généraux célèbres
+- Zhu 朱
+- Qin 秦 — comme le conseiller Qin Hui
+- You 尤
+- Xu 許
+- He 何
+- Lü 呂
+- Shi 施
+- Zhang 張
+- Kong 孔 — descendants revendiqués de Confucius
+- Cao 曹
+- Yan 嚴
+- Hua 華
+- Jin 金 — « or », mais aussi le nom des Jürchen : mal vu à Lin'an
+- Wei 魏
+- Tao 陶
+- Jiang 姜
+- Qi 戚
+- Xie 謝
+- Zou 鄒
+- Shui 水
+- Dou 竇
+- Zhang 章
+- Yun 雲
+- Su 蘇 — comme le poète Su Shi, qui fit bâtir la digue du lac de l'Ouest
+- Pan 潘
+- Ge 葛
+- Fan 范
+- Peng 彭
+- Lang 郎
+- Lu 魯
+- Ma 馬
+- Miao 苗
+- Hua 花
+- Fang 方
+- Yuan 袁
+- Liu 柳
+- Bao 鮑
+- Tang 唐
+- Xue 薛
+- Lei 雷
+- Luo 羅
+- An 安
+- Gu 顧
+- Meng 孟
+- Huang 黃
+- Xiao 蕭
+- Yao 姚
+- Song 宋
+- Dong 董
+- Liang 梁 — comme la générale Liang Hongyu
+- Du 杜
+- Ruan 阮
+- Jia 賈
+- Guo 郭
+- Mei 梅
+- Lin 林
+- Xu 徐
+- Gao 高
+- Cai 蔡
+- Tian 田
+- Hu 胡
+- Huo 霍
+- Yue 岳 — comme le général Yue Fei
+- Moqi 万俟 — nom composé rare ; Moqi Xie est un censeur de la faction de la paix
+- Sima 司馬
+- Shangguan 上官
+- Ouyang 歐陽
+- Xiahou 夏侯
+- Zhuge 諸葛
+- Huangfu 皇甫
+- Yuchi 尉遲
+- Gongsun 公孫
+- Linghu 令狐
+- Murong 慕容
+- Situ 司徒
+- Nangong 南宮
+- Ximen 西門
+- Dongfang 東方
